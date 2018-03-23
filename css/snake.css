@@ -1,0 +1,29 @@
+#wrapper
+{
+	border: 1px solid;
+	margin: 0 auto;
+	position: relative;
+	overflow: hidden;
+	float: left;
+	background-color: grey;
+}
+.gridsquare
+{
+	float: left;
+	height: 10px;
+	width: 10px;
+}
+.row
+{
+	clear: both;
+}
+.scoreCss
+{
+	display: inline-block;
+	font-size: 50px;
+	margin-left:20px;
+	margin-top: 100px;
+}
+#score{
+	font-size: 50px;
+}
